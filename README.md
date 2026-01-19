@@ -35,5 +35,20 @@ detailed network and location information using a public IP API.
 ---
 
 ## 📂 Project Structure
+ip-tracker/
+│
+├── app.py
+├── templates/
+│ └── index.html
+└── README.md
 
+
+---
+
+## ⚙️ Installation & Usage
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/ip-tracker.git
+cd ip-tracker
 
