@@ -35,13 +35,12 @@ detailed network and location information using a public IP API.
 ---
 
 ## 📂 Project Structure
-ip-tracker/
-│
-├── app.py
-├── templates/
-│ └── index.html
-└── README.md
-
+📁 ip-tracker  
+├─ app.py  
+├─ requirements.txt  
+├─ templates  
+│  └─ index.html  
+└─ README.md
 
 ---
 
