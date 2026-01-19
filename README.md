@@ -48,6 +48,6 @@ detailed network and location information using a public IP API.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/ip-tracker.git
+git clone https://github.com/Jatin-Kumar-ai/ip-tracker.git
 cd ip-tracker
 
