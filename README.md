@@ -7,6 +7,15 @@ detailed network and location information using a public IP API.
 
 ---
 
+> ⚠️ **Important Note**
+>
+> The `app.py` file contains the **core backend Python logic** of this project.
+>  
+> Please **do not modify, delete, or update `app.py`** unless you fully understand the code.
+>  
+> Any changes should be made carefully, as modifying this file may break the application.
+
+
 ## 🚀 Features
 
 - Track **IP address or domain name**
@@ -46,8 +55,14 @@ detailed network and location information using a public IP API.
 
 ## ⚙️ Installation & Usage
 
-### 1️⃣ Clone the repository
+### 📥 Installation
+
+**Option 1: Download ZIP**
+- Click **Code → Download ZIP**
+- Extract the files
+
+**Option 2: Clone using Git**
 ```bash
-git clone https://github.com/Jatin-Kumar-ai/ip-tracker.git
-cd ip-tracker
+git clone https://github.com/Jatin-Kumar-ai/Ip_tracker.git
+
 
